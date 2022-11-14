@@ -1,0 +1,20 @@
+Projects
+----------------------------------------------
+
+
+
+Sensors
+----------------------------------------------
+https://www.robotistan.com/manyetik-kapi-alarm-sensoru
+https://www.robotistan.com/mini-dalgic-pompa-6v-120-litresaat?#ins_sr=eyJwcm9kdWN0SWQiOiIxODExNCJ9
+https://www.robotistan.com/su-seviyesi-yagmur-sensoru-water-level-rain-sensor?#ins_sr=eyJwcm9kdWN0SWQiOiIxMzA3NyJ9
+https://www.robotistan.com/toprak-nemi-algilama-sensoru?#ins_sr=eyJwcm9kdWN0SWQiOiIxMzEzNCJ9
+https://www.robotistan.com/agirlik-sensoru-load-sensor-1?#ins_sr=eyJwcm9kdWN0SWQiOiIxMzU1NSJ9
+https://www.robotistan.com/yagmur-sensoru-rain-sensor
+https://www.robotistan.com/su-gecirmez-ds18b20-dijital-isi-sensoru
+
+
+
+Development Kits with Modules
+----------------------------------------------
+https://www.robotistan.com/esp32-cam-wifi-bluetooth-gelistirme-karti-ov2640-kamera-modul
