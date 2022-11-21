@@ -1,7 +1,7 @@
 //NodeMCU ESP32S ESP-WROOM-32
 //Umur Dinçer
 //FreeRTOS led blink delay and message echo with task queue 
-//this code is taken from Shawn Hymel (digi-key)
+//this code is taken from Shawn Hymel (digi-key) for learning purpose
 #if CONFIG_FREERTOS_UNICORE
   static const BaseType_t app_cpu = 0;
 #else 
